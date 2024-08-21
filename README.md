@@ -1,3 +1,6 @@
+TRUSTED SERVANTS
+A system to help identify and track corrupt politicians and other public figures which could unfairly use their position for personal profit. 
+
 ## Usage
 
 1. Open your browser and go to `http://localhost:3000`
@@ -30,7 +33,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - agitronics@gmail.com
 
-Project Link: [https://github.com/yourusername/political-corruption-identification](https://github.com/agitronics/TrustedServants
+Project Link: https://github.com/agitronics/TrustedServants
 
 ## Disclaimer
 
